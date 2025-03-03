@@ -14,12 +14,7 @@ A responsive quiz application built with React and TailwindCSS that fetches ques
 
 ## Screenshots
 
-![Quiz App Screenshot](https://via.placeholder.com/800x400)
-![Results Page Screenshot](https://via.placeholder.com/800x400)
-
-## Demo
-
-[Live Demo](https://your-quiz-app-url.com)
+![Quiz App Screenshot](c:\Users\amarp\Pictures\Screenshots\QuizApp.png)
 
 ## Technologies Used
 
@@ -176,10 +171,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
